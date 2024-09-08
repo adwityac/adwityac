@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Adwitya</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://adwityac.github.io/)
+♡ I’m currently working on [Personal Portfolio](https://adwityac.github.io/)
 
-- 🌱 I’m currently learning **Node JS, Django, Ruby**
+♡ I’m currently learning **Node JS, Django, Ruby**
 
-- 👯 I’m looking to collaborate on **frontend/python developing projects!**
+♡ I’m looking to collaborate on **frontend/python developing projects!**
 
-- 📫 How to reach me **adwityachakraborty@hotmail.com**
+♡ <a href="mailto:adwityachakraborty@hotmail.com">Reach out to me!</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SckfXxiY9szruIpm9Mq5NS9xb_lNoS21/view?usp=drive_link](https://drive.google.com/file/d/1SckfXxiY9szruIpm9Mq5NS9xb_lNoS21/view?usp=drive_link)
+♡ Know about my experiences [https://drive.google.com/file/d/1SckfXxiY9szruIpm9Mq5NS9xb_lNoS21/view?usp=drive_link](https://drive.google.com/file/d/1SckfXxiY9szruIpm9Mq5NS9xb_lNoS21/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **frontend/python developing projects!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adwityac](https://github.com/adwityac)
-
 - 📫 How to reach me **adwityachakraborty@hotmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SckfXxiY9szruIpm9Mq5NS9xb_lNoS21/view?usp=drive_link](https://drive.google.com/file/d/1SckfXxiY9szruIpm9Mq5NS9xb_lNoS21/view?usp=drive_link)

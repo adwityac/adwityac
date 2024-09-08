@@ -11,7 +11,7 @@
 
 ♡ <a href="mailto:adwityachakraborty@hotmail.com">Reach out to me!</a>
 
-♡ Know about my experiences [https://drive.google.com/file/d/1SckfXxiY9szruIpm9Mq5NS9xb_lNoS21/view?usp=drive_link](https://drive.google.com/file/d/1SckfXxiY9szruIpm9Mq5NS9xb_lNoS21/view?usp=drive_link)
+♡ <a href="https://drive.google.com/file/d/1SckfXxiY9szruIpm9Mq5NS9xb_lNoS21/view?usp=drive_link">Know about my experiences </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

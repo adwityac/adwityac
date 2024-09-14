@@ -5,7 +5,7 @@
 
 ♡ I’m currently working on [Personal Portfolio](https://adwityac.github.io/)
 
-♡ I’m currently learning **Node JS, Django, Ruby**
+♡ I’m currently learning **Power Bi, Tableau**
 
 ♡ I’m looking to collaborate on **data analytic projects!**
 

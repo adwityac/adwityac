@@ -7,7 +7,7 @@
 
 ♡ I’m currently learning **Node JS, Django, Ruby**
 
-♡ I’m looking to collaborate on **frontend/python developing projects!**
+♡ I’m looking to collaborate on **data analytic projects!**
 
 ♡ <a href="mailto:adwityachakraborty@hotmail.com">Reach out to me!</a>
 

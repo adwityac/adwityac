@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adwityac&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=adwityac&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adwityac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -52,14 +53,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/adwityac/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+[![trophy](https://github-profile-trophy.vercel.app/?username=adwityac&theme=discord&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)

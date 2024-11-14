@@ -16,19 +16,17 @@
  **<h3 align="left">Passionate tech enthusiast from India driven by a love for clean, concise code, and always exploring new technologies to expand my skill set.</h3>**
 
  **<h3 align="left">Skills</h3>**
-
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: space-evenly;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28" alt="VSCode">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
 </div>
 
 

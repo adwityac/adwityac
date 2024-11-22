@@ -23,6 +23,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />

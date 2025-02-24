@@ -12,7 +12,7 @@
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
     <br><br><br>
     <p align="center">
-        <a href="http://linkedin.com/in/adwityachakraborty">
+        <a href="http://linkedin.com/in/adwityac">
             <img src="https://img.shields.io/badge/linkedin-0a66c2" />
         </a>
         <a href="https://github.com/adwityac">

@@ -4,7 +4,7 @@
 
 <br><br>
     <pre>
-        ❤︎ B.Tech @ BV • Data Science Enthusiast
+        ❤︎ B.Tech @ BV • Computer Science
         ❤︎ Data Science • AI/ML • FullStack
         ❤︎ Software Development • Open Source 
         ❤︎ Music • Games • Anime • Code • Content Writing

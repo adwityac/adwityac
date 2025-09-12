@@ -9,7 +9,7 @@
 <br><br>
 <pre>
     ❤︎ B.Tech @ BV • Computer Science
-    ❤︎ Web Dev • Open Source
+    ❤︎ Backend • Open Source
     ❤︎ Music • Games • Anime • Code • Content Writing
 </pre>
 <br><br>

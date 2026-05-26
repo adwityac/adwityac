@@ -36,4 +36,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/adwityac/adwityac/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=made%20with%20%E2%99%A5%20by%20adwitya&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+
 </div>

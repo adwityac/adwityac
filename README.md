@@ -7,25 +7,13 @@
 
 
 <br><br>
-<pre>
-    ❤︎ B.Tech @ BV • Computer Science
-    ❤︎ Backend • Open Source
-    ❤︎ Music • Games • Anime • Code • Content Writing
-</pre>
+
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 
 <p align="center">
-    <a href="http://linkedin.com/in/adwityac">
-        <img src="https://img.shields.io/badge/linkedin-0a66c2" />
-    </a>
-    <a href="https://github.com/adwityac">
-        <img src="https://img.shields.io/badge/github-181717" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/adwityac">
-        <img src="https://img.shields.io/badge/hackerrank-2EC866" />
-    </a>
+    <a href="https://adwityac.netlify.app/"><strong>website</strong></a> | <a href="adwityachakraborty@hotmail.com"><strong>email</strong></a>
 </p>
 
 <br>

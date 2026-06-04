@@ -14,7 +14,7 @@
 
 <p align="center">
 <samp>
-    <a href="https://adwityac.netlify.app/"><strong>website</strong></a> | <a href="adwityachakraborty@hotmail.com"><strong>email</strong></a>
+    <a href="https://adwityac.netlify.app/"><strong>website</strong></a> | <a href="mailto:adwityachakraborty@hotmail.com"><strong>email</strong></a>
 </samp>
 </p>
 
